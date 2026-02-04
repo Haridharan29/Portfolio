@@ -93,3 +93,17 @@ Portfolio/
 ✔️ Images are properly separated
 ✔️ Resume is stored in assets/
 ✔️ Structure now matches real-world standards
+
+📬 Contact
+
+Name: Haridharan K
+
+Mobile: 9344431013
+
+Email: haridharan2910@gmail.com
+
+GitHub: https://github.com/Haridharan29
+
+📄 License
+
+This project is free to use and modify for personal or educational purposes.
